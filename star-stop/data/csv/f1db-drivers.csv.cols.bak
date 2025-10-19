@@ -1,0 +1,32 @@
+id,name,firstName,lastName,fullName,abbreviation,permanentNumber,gender,dateOfBirth,dateOfDeath,placeOfBirth,countryOfBirthCountryId,nationalityCountryId,secondNationalityCountryId,bestChampionshipPosition,bestStartingGridPosition,bestRaceResult,totalChampionshipWins,totalRaceEntries,totalRaceStarts,totalRaceWins,totalRaceLaps,totalPodiums,totalPoints,totalChampionshipPoints,totalPolePositions,totalFastestLaps,totalDriverOfTheDay,totalGrandSlams
+alexander-albon,Alexander Albon,Alexander,Albon,Alexander Albon,ALB,23,MALE,1996-03-23,,London,united-kingdom,thailand,,7,4,3,0,123,122,0,6586,2,310,310,0,0,4,0
+alexander-dunne,Alexander Dunne,Alexander,Dunne,Alexander Dunne,DUN,,MALE,2005-11-11,,Offaly,ireland,ireland,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+arvid-lindblad,Arvid Lindblad,Arvid,Lindblad,Arvid Anand Olof Lindblad,LIN,,MALE,2007-08-08,,Virginia Water,united-kingdom,united-kingdom,sweden,,,,0,0,0,0,0,0,0,0,0,0,0,0
+ayumu-iwasa,Ayumu Iwasa,Ayumu,Iwasa,Ayumu Iwasa,IWA,,MALE,2001-09-22,,Moriguchi,japan,japan,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+carlos-sainz-jr,Carlos Sainz Jr.,Carlos,Sainz Jr.,Carlos Sainz Vázquez de Castro,SAI,55,MALE,1994-09-01,,Madrid,spain,spain,,5,1,1,0,226,223,4,12056,28,1304.5,1304.5,6,4,8,0
+charles-leclerc,Charles Leclerc,Charles,Leclerc,Charles Marc Hervé Perceval Leclerc,LEC,16,MALE,1997-10-16,,Monte Carlo,monaco,monaco,,2,1,1,0,167,165,8,8991,48,1603,1603,27,10,18,0
+dino-beganovic,Dino Beganovic,Dino,Beganovic,Dino Beganovic,BEG,,MALE,2004-01-19,,Linköping,sweden,sweden,bosnia-and-herzegovina,,,,0,0,0,0,0,0,0,0,0,0,0,0
+esteban-ocon,Esteban Ocon,Esteban,Ocon,Esteban Ocon,OCO,31,MALE,1996-09-17,,Évreux,france,france,,8,3,1,0,174,174,1,9320,4,473,473,0,1,1,0
+felipe-drugovich,Felipe Drugovich,Felipe,Drugovich,Felipe Drugovich Roncato,DRU,,MALE,2000-05-23,,Maringá,brazil,brazil,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+fernando-alonso,Fernando Alonso,Fernando,Alonso,Fernando Alonso Díaz,ALO,14,MALE,1981-07-29,,Oviedo,spain,spain,,1,1,1,2,422,420,32,22758,106,2373,2373,22,26,7,0
+franco-colapinto,Franco Colapinto,Franco,Colapinto,Franco Alejandro Colapinto,COL,43,MALE,2003-05-27,,Pilar,argentina,argentina,,19,8,8,0,21,20,0,1088,0,5,5,0,0,0,0
+frederik-vesti,Frederik Vesti,Frederik,Vesti,Frederik Vesti Stamm,VES,,MALE,2002-01-13,,Langelund,denmark,denmark,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+gabriel-bortoleto,Gabriel Bortoleto,Gabriel,Bortoleto,Gabriel Bortoleto Oliveira,BOR,5,MALE,2004-10-14,,Osasco,brazil,brazil,,,7,6,0,18,18,0,986,0,18,18,0,0,2,0
+george-russell,George Russell,George,Russell,George Russell,RUS,63,MALE,1998-02-15,,King's Lynn,united-kingdom,united-kingdom,,4,1,1,0,146,146,5,8227,23,951,951,7,10,1,0
+isack-hadjar,Isack Hadjar,Isack,Hadjar,Isack Alexandre Hadjar,HAD,6,MALE,2004-09-28,,Paris,france,france,,,4,3,0,18,18,0,983,1,39,39,0,0,1,0
+jack-doohan,Jack Doohan,Jack,Doohan,Jack Doohan,DOO,7,MALE,2003-01-20,,Gold Coast,australia,australia,,24,11,13,0,7,7,0,272,0,0,0,0,0,0,0
+kimi-antonelli,Kimi Antonelli,Kimi,Antonelli,Andrea Kimi Antonelli,ANT,12,MALE,2006-08-25,,Bologna,italy,italy,,,3,3,0,18,18,0,946,1,88,88,0,2,2,0
+lance-stroll,Lance Stroll,Lance,Stroll,Lance Stroll,STR,18,MALE,1998-10-29,,Montreal,canada,canada,,10,1,3,0,186,183,0,10041,3,324,324,1,0,1,0
+lando-norris,Lando Norris,Lando,Norris,Lando Norris,NOR,4,MALE,1999-11-13,,Bristol,united-kingdom,united-kingdom,,2,1,1,0,146,146,9,8372,40,1321,1321,13,18,18,0
+lewis-hamilton,Lewis Hamilton,Lewis,Hamilton,Lewis Carl Davidson Hamilton,HAM,44,MALE,1985-01-07,,Stevenage,united-kingdom,united-kingdom,,1,1,1,7,374,374,105,21325,202,4987.5,4987.5,104,68,19,6
+liam-lawson,Liam Lawson,Liam,Lawson,Liam Lawson,LAW,30,MALE,2002-02-11,,Hastings,new-zealand,new-zealand,,20,3,5,0,29,29,0,1628,0,36,36,0,0,0,0
+luke-browning,Luke Browning,Luke,Browning,Luke Browning,BRO,,MALE,2002-01-31,,Kingsley,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+max-verstappen,Max Verstappen,Max,Verstappen,Max Emilian Verstappen,VER,33,MALE,1997-09-30,,Hasselt,belgium,netherlands,,1,1,1,4,227,227,67,12329,121,3296.5,3296.5,46,35,44,6
+nico-hulkenberg,Nico Hülkenberg,Nico,Hülkenberg,Nicolas Hülkenberg,HUL,27,MALE,1987-08-19,,Emmerich am Rhein,germany,germany,,7,1,3,0,248,244,0,12810,1,608,608,1,2,3,0
+oliver-bearman,Oliver Bearman,Oliver,Bearman,Oliver James Bearman,BEA,87,MALE,2005-05-08,,Havering,united-kingdom,united-kingdom,,18,9,6,0,21,21,0,1195,0,25,25,0,0,1,0
+oscar-piastri,Oscar Piastri,Oscar,Piastri,Oscar Piastri,PIA,81,MALE,2001-04-06,,Melbourne,australia,australia,,4,1,1,0,64,64,9,3659,24,725,725,5,8,5,2
+paul-aron,Paul Aron,Paul,Aron,Paul Aron,ARO,,MALE,2004-02-04,,Tallinn,estonia,estonia,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+pierre-gasly,Pierre Gasly,Pierre,Gasly,Pierre Gasly,GAS,10,MALE,1996-02-07,,Rouen,france,france,,7,2,1,0,172,171,1,9258,5,456,456,0,3,3,0
+ryo-hirakawa,Ryō Hirakawa,Ryō,Hirakawa,Ryō Hirakawa,HIR,,MALE,1994-03-07,,Kure,japan,japan,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+victor-martins,Victor Martins,Victor,Martins,Victor Martins,MAR,,MALE,2001-06-16,,Quincy-sous-Sénart,france,france,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+yuki-tsunoda,Yuki Tsunoda,Yuki,Tsunoda,Yuki Tsunoda,TSU,22,MALE,2000-05-11,,Sagamihara,japan,japan,,12,3,4,0,108,105,0,5653,0,111,111,0,1,2,0
