@@ -5,7 +5,8 @@
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "fetch-astro": "node ./scripts/fetch-astro.js",
+  "fetch-astro": "node ./scripts/fetch-astro.js",
+  "prepare-gemini": "node ./scripts/prepare-gemini.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
